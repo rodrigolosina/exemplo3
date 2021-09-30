@@ -1,3 +1,4 @@
 Esta primeira linha é apenas o início.
 Esta segunda linha eu também vou guardar.
 Esta terceira linha é do desvio.
+quarta linha do desvio.
